@@ -1,4 +1,4 @@
-# ClickSpy - Advanced Mouse Click Logger & Screenshot Utility (inspired by Upwork job
+# ClickSpy - Advanced Mouse Click Logger & Screenshot Utility (inspired by Upwork job)
 
 !
 
